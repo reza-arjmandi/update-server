@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
+  "version": "0.4.0",
   "notes": "Bug fixes and performance improvements",
-  "pub_date": "2024-01-15T12:00:00Z",
+  "pub_date": "2025-08-01T12:00:00Z",
   "platforms": {
     "universal-apple-darwin": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRFBlSGxGSURhUFdKM1ZXeXJDcnRHK2hFNU1JVlRibFdMYUxFUWsyZWYrcXIvUUpqZ1kxdEZ1M2FjRDYzMmJWV2NxTjRyL1owZ3JFQkhaNW85amt0VkZtdnA1K0JJVmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MDM1MDM3CWZpbGU6RGFpdG8uYXBwLnRhci5negpwc3YrdjY2WXBUWkZLUEN6c0liU3NRMWJKYjJxSTYyVEVvTlhVVzdMbGVKV3B6cXEwV3IzaEtmZEQ3aE5TYTJvdUdsV2p3ZHFwOU12Z3R6Z09mSmNCQT09Cg==",
