@@ -5,7 +5,7 @@
   "platforms": {
     "universal-apple-darwin": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUJ...",
-      "url": "https://github.com/your-username/your-repo/releases/download/v0.2.0/Daito_0.2.0_universal.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/reza-arjmandi/update-server/refs/heads/main/Daito.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUJ...",
