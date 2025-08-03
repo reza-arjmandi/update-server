@@ -7,6 +7,10 @@
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRFBlSGxGSURhUFdKM1ZXeXJDcnRHK2hFNU1JVlRibFdMYUxFUWsyZWYrcXIvUUpqZ1kxdEZ1M2FjRDYzMmJWV2NxTjRyL1owZ3JFQkhaNW85amt0VkZtdnA1K0JJVmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MDM1MDM3CWZpbGU6RGFpdG8uYXBwLnRhci5negpwc3YrdjY2WXBUWkZLUEN6c0liU3NRMWJKYjJxSTYyVEVvTlhVVzdMbGVKV3B6cXEwV3IzaEtmZEQ3aE5TYTJvdUdsV2p3ZHFwOU12Z3R6Z09mSmNCQT09Cg==",
       "url": "https://raw.githubusercontent.com/reza-arjmandi/update-server/refs/heads/main/Daito.app.tar.gz"
     },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRFBlSGxGSURhUFdKM1ZXeXJDcnRHK2hFNU1JVlRibFdMYUxFUWsyZWYrcXIvUUpqZ1kxdEZ1M2FjRDYzMmJWV2NxTjRyL1owZ3JFQkhaNW85amt0VkZtdnA1K0JJVmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MDM1MDM3CWZpbGU6RGFpdG8uYXBwLnRhci5negpwc3YrdjY2WXBUWkZLUEN6c0liU3NRMWJKYjJxSTYyVEVvTlhVVzdMbGVKV3B6cXEwV3IzaEtmZEQ3aE5TYTJvdUdsV2p3ZHFwOU12Z3R6Z09mSmNCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/reza-arjmandi/update-server/refs/heads/main/Daito.app.tar.gz"
+    },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUJ...",
       "url": "https://github.com/your-username/your-repo/releases/download/v0.2.0/Daito_0.2.0_x64-setup.nsis.zip"
